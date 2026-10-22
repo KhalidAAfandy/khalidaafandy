@@ -30,17 +30,36 @@ My work centers on maintainable codebases, scalable app architecture, and the sm
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github&theme=dark" alt="Flutter, Dart, Firebase, Git and GitHub" />
+**Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=dart,java,swift,go,python,cpp,c&theme=dark" alt="Dart, Java, Swift, Go, Python, C++ and C" />
 
+**Mobile & Web**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs&theme=dark" alt="Flutter, React and Next.js" />
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
-![BLoC](https://img.shields.io/badge/State-BLoC_%2F_Provider-0E7490?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Backend & Delivery**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,docker,git,github&theme=dark" alt="Node.js, Express, Firebase, Docker, Git and GitHub" />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/Integration-REST_APIs-334155?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Design-Clean_Architecture-334155?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/Delivery-CI%2FCD-334155?style=flat-square)
+
+**Architecture & Craft**
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-0E7490?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0E7490?style=flat-square)
+![Design Systems](https://img.shields.io/badge/Design_Systems-0E7490?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-334155?style=flat-square)
+![BLoC](https://img.shields.io/badge/State-BLoC_%2F_Provider-334155?style=flat-square)
 
 </div>
 
