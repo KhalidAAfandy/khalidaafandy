@@ -45,13 +45,24 @@ My work centers on maintainable codebases, scalable app architecture, and the sm
 
 **Backend & Delivery**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,docker,git,github&theme=dark" alt="Node.js, Express, Firebase, Docker, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,docker&theme=dark" alt="Node.js, Express, Firebase and Docker" />
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/Integration-REST_APIs-334155?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/Delivery-CI%2FCD-334155?style=flat-square)
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Git, GitHub, Linux, Ubuntu and VS Code" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-0E7490?style=flat-square)
 
 **Design & Engineering**
 
