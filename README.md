@@ -10,7 +10,7 @@ I build high-performance, cross-platform mobile apps with a focus on**clean arch
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/KhalidAAfandy?tab=repositories)
 [![X](https://img.shields.io/badge/X-Follow_along-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khalidaafandy)
 
-[About](#about) · [Toolkit](#toolkit) · [Selected work](#selected-work) · [Engineering approach](#engineering-approach)
+[About](#about) · [Experience](#experience) · [Toolkit](#toolkit) · [Selected work](#selected-work) · [Certifications](#certifications)
 
 </div>
 
@@ -25,6 +25,28 @@ My work centers on maintainable codebases, scalable app architecture, and the sm
 | Building | Refining | Caring about |
 | :--- | :--- | :--- |
 | Fitness and lifestyle mobile experiences | App performance and architecture | Smooth interactions and thoughtful UX |
+
+## Experience
+
+| Company | Role | Period |
+| :--- | :--- | :--- |
+| [Taqweed · تكويد](https://www.linkedin.com/company/108655983/) | Software Engineer | Feb 2025 – Dec 2025 |
+| [Four Software](https://www.linkedin.com/company/108662867/) | Software Engineer | Oct 2024 – Dec 2024 |
+| [Codnally](https://www.linkedin.com/company/106310222/) | Co-Founder | May 2023 – Dec 2023 |
+| [Codnally](https://www.linkedin.com/company/106310222/) | Senior Application Developer | Jun 2023 – Oct 2023 |
+| [EgenSolve](https://www.linkedin.com/company/107016895/) | Software Engineer | Dec 2022 – Sep 2023 |
+| [Eaalim Institute](https://www.linkedin.com/company/3611052/) | Software Engineer | Nov 2021 – Apr 2022 |
+
+<details>
+<summary><b>Building products & developer education at Codnally</b></summary>
+
+<br/>
+
+Co-founded a technology initiative focused on programming education and cross-platform mobile products. My work spanned product direction, engineering standards, Flutter and Dart architecture, team guidance, and end-to-end delivery.
+
+As a Senior Application Developer, I built and maintained Flutter applications, improved app stability, resolved performance issues, integrated third-party APIs, and participated in regular code reviews.
+
+</details>
 
 ## Toolkit
 
@@ -108,6 +130,14 @@ A calm, local-first Flutter task manager with search, filters, and on-device per
 </td>
 </tr>
 </table>
+
+## Certifications
+
+| Certificate | Issuer | Credential |
+| :--- | :--- | :--- |
+| CS50x: Introduction to Computer Science | CS50 | [View certificate ↗](https://cs50.harvard.edu/certificates/7b9f2fc6-1ed5-4b97-8691-3d819e6b5589) |
+| Flutter | Udemy | [View certificate ↗](https://ude.my/UC-2c0b173b-cf8a-4008-beb4-d067dd83fa13) |
+| Responsive Web Design | freeCodeCamp · May 2024 | [View certificate ↗](https://freecodecamp.org/certification/KhalidAfandy/responsive-web-design) |
 
 ## Engineering approach
 
