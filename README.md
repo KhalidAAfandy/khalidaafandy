@@ -67,10 +67,12 @@ As a Senior Application Developer, I built and maintained Flutter applications, 
 
 **Backend & Delivery**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,docker&theme=dark" alt="Node.js, Express, Firebase and Docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,docker&theme=dark" alt="Node.js, Express, Firebase, Supabase and Docker" />
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/Integration-REST_APIs-334155?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/Delivery-CI%2FCD-334155?style=flat-square)
@@ -88,9 +90,12 @@ As a Senior Application Developer, I built and maintained Flutter applications, 
 
 **Design & Engineering**
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Adobe Photoshop and Adobe Illustrator" />
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square)
 
 ![Clean Code](https://img.shields.io/badge/Clean_Code-0E7490?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-0E7490?style=flat-square)
