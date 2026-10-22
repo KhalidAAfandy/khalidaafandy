@@ -4,7 +4,8 @@
 
 ### Mobile apps. Thoughtfully engineered.
 
-I turn complex ideas into fast, intuitive mobile experiences.Clean architecture, careful details, and products built for everyday life.
+I turn complex ideas into fast, intuitive mobile experiences.<br/>
+Clean architecture, careful details, and products built for everyday life.
 
 [LinkedIn](https://www.linkedin.com/in/khalidaafandy/) &nbsp; / &nbsp; [X](https://x.com/khalidaafandy) &nbsp; / &nbsp; [Explore my code](https://github.com/KhalidAAfandy?tab=repositories)
 
