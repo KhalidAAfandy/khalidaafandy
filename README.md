@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:22D3EE&height=210&section=header&text=Khalid%20Afandy&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Flutter%20Developer&descAlignY=60&descSize=20" width="100%" alt="Khalid Afandy — Senior Flutter Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:22D3EE&height=210&section=header&text=Khalid%20Afandy&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Mobile%20App%20Developer&descAlignY=60&descSize=20" width="100%" alt="Khalid Afandy — Senior Mobile App Developer" />
 
-### Thoughtful architecture. Fluid experiences. Built with Flutter.
+### Thoughtful architecture. Fluid experiences. Mobile apps that matter.
 
 I build high-performance, cross-platform mobile apps with a focus on**clean architecture, responsive interfaces, and products people enjoy using.**
 
@@ -18,7 +18,7 @@ I build high-performance, cross-platform mobile apps with a focus on**clean arch
 
 ## About
 
-I'm **Khalid Afandy**, a Senior Flutter Developer based in **Egypt**. I turn complex ideas into clean, intuitive mobile experiences, with a particular interest in **fitness and everyday wellbeing**.
+I'm **Khalid Afandy**, a Senior Mobile App Developer based in **Egypt**. I turn complex ideas into clean, intuitive mobile experiences, with a particular interest in **fitness and everyday wellbeing**.
 
 My work centers on maintainable codebases, scalable app architecture, and the small interaction details that make an app feel fast and alive.
 
