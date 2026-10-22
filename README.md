@@ -53,7 +53,11 @@ My work centers on maintainable codebases, scalable app architecture, and the sm
 ![REST APIs](https://img.shields.io/badge/Integration-REST_APIs-334155?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/Delivery-CI%2FCD-334155?style=flat-square)
 
-**Architecture & Craft**
+**Design & Engineering**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ![Clean Code](https://img.shields.io/badge/Clean_Code-0E7490?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-0E7490?style=flat-square)
