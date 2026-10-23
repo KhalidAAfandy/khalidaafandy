@@ -54,7 +54,7 @@ As a Senior Application Developer, I built and maintained Flutter applications, 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=dart,java,swift,go,python,cpp,c&theme=dark" alt="Dart, Java, Swift, Go, Python, C++ and C" />
+<img src="https://skillicons.dev/icons?i=dart,js,java,swift,go,python,cpp,c&theme=dark" alt="Dart, JavaScript, Java, Swift, Go, Python, C++ and C" />
 
 **Mobile & Web**
 
@@ -64,6 +64,12 @@ As a Senior Application Developer, I built and maintained Flutter applications, 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Web Foundations & Styling**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind&theme=dark" alt="JavaScript, HTML, CSS, Bootstrap and Tailwind CSS" />
+
+JavaScript · HTML · CSS · Bootstrap · Tailwind CSS
 
 **Backend & Delivery**
 
@@ -97,6 +103,8 @@ As a Senior Application Developer, I built and maintained Flutter applications, 
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square)
 
+![Data Structures](https://img.shields.io/badge/Data_Structures-0E7490?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-0E7490?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-0E7490?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-0E7490?style=flat-square)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-0E7490?style=flat-square)
